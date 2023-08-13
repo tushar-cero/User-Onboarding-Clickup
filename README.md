@@ -4,4 +4,4 @@ The Project aims to document a seamless and user-friendly login and signup proce
 
 TOOLS — Figma, Miro, GitBook
 
-(PROJECT LINK)[https://tusharcero.gitbook.io/user-onboarding-flow/]
+[PROJECT LINK](https://tusharcero.gitbook.io/user-onboarding-flow/)
